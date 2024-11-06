@@ -1,0 +1,3 @@
+sorting_algo=Insertion_Sort
+searching_algo=Binary_Search
+threshold=50;
